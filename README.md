@@ -6,7 +6,7 @@ To implement Opening and Closing using Python and OpenCV.
 ## Software Required:
 1. Anaconda - Python 3.7
 2. OpenCV
-3. 
+
 ## Algorithm:
 ### Step1:
 Import the necessary packages.
